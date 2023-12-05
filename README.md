@@ -1,0 +1,2 @@
+# PracticeSQL
+Leetcode SQL problems
